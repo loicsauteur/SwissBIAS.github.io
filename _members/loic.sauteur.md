@@ -4,9 +4,9 @@ last_name: Sauteur
 short_name: loic
 city: Basel
 affiliation: University of Basel
-position: Bioimage Analyst
-date: 2024-03-08
-tools: [ImageJ / Fiji, QuPath, Stardist, Cellpose, ilastik, Java, Python, Groovy]
+position: Bioimage Analyst / Senior Microscopy Specialist
+date: 2026-06-04
+tools: [ImageJ / Fiji, QuPath, Stardist, Cellpose, ilastik, Java, Python, Groovy, napari, Shiny]
 ---
 Microscopy Core Facility, Department of Biomedicine
 
@@ -17,9 +17,9 @@ Together with [Ewelina Bartoszek](/members/ewelina.bartoszek/), he is responsibl
 - Microscope user training
 - Microscope maintenance
 
-*Background*: He did his Ph.D. in Developmental Biology, imaging zebrafish angiogenesis.
+*Background:* He did his Ph.D. in Developmental Biology, imaging zebrafish angiogenesis.
 
-*Common BIA * Fiji, OMERO, QuPath, napari, ilastik, Imaris.
+*Common BIA:* Fiji, OMERO, QuPath, napari, ilastik, Imaris.
 
 *Spoken Languages:* Groovy, Java, Python, English, German, French, and a little Italian.
 
